@@ -20,6 +20,8 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 | Eth2 Beacon Chain  | No              | No     | No          | No       | No          | No     |
 
 
-# Contributing [*Or something else*]
+# Contributing
+
+Feedback and Contributions from the open source community are welcome. If you have any query, you can open an issue in relevant repository and our Team will try to take it from there.
 
 [TODO]
