@@ -6,10 +6,10 @@ Ziggurat is a collection of network testing tools and a suite of conformance, pe
 
 # About
 
-The project is developed by [Equilibrium](https://equilibrium.co) that provides [zcashd](https://github.com/zcash/zcash) and [zebra](https://github.com/ZcashFoundation/zebra) developers with the foundation of reliability, performance, and scalability needed to realize the true potential of the Zcash network.
+The project is developed by [Equilibrium](https://equilibrium.co) that provides the target networks with the foundation of reliability, performance, and scalability needed to realize the true potential of the network. Our clients  include, but not limited to, ZCash, Algorand, and XRPL Ledger.
 
-# FOMO Table
-[TODO *Some description of the Table*]
+# Covergage
+
 |       | **Spec Conformance** | **Fuzzing** | **Crawler** | **Chaos + Malicious Actor Modeling** | **Visualization** | **Performance Benchmarking (loosely defined)** |
 |--------------------|--------|-------------|----------|-------------|-----------------|--------|
 | ZCash              | Yes (de-facto)  | Yes    | No          | Kinda    | No          | Yes    |
@@ -23,5 +23,3 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 # Contributing
 
 Feedback and Contributions from the open source community are welcome. If you have any query, you can open an issue in relevant repository and our Team will try to take it from there.
-
-[TODO]
