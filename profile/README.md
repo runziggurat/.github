@@ -10,17 +10,17 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 
 # FOMO Table
 [TODO *Some description of the Table*]
-|          | **Fuzzing** | **Crawler** | **Chaos + Malicious Actor Modeling** | **Visualization** | **Spec Conformance** | **Performance Benchmarking (loosely defined)** |
+|       | **Spec Conformance** | **Fuzzing** | **Crawler** | **Chaos + Malicious Actor Modeling** | **Visualization** | **Performance Benchmarking (loosely defined)** |
 |--------------------|--------|-------------|----------|-------------|-----------------|--------|
-| ZCash              | Yes    | No          | Kinda    | No          | Yes (de-facto)  | Yes    |
-| Algorand           | No     | No          | No       | No          | No              | No     |
-| Aleo               | No     | In Progress | No       | In Progress | No              | No     |  
-| Polkadot           | No     | No          | No       | No          | No              | No     |
-| Cardano            | No     | No          | No       | No          | No              | No     |
-| Solana             | No     | No          | No       | No          | No              | No     |
-| Mina               | No     | No          | No       | No          | No              | No     |
-| Eth2 Beacon Chain  | No     | No          | No       | No          | No              | No     |
-| Pathfinder         | No     | No          | No       | No          | No              | No     |
+| ZCash              | Yes (de-facto)  | Yes    | No          | Kinda    | No          | Yes    |
+| Algorand           | No              | No     | No          | No       | No          | No     |
+| Aleo               | No              | No     | In Progress | No       | In Progress | No     |  
+| Polkadot           | No              | No     | No          | No       | No          | No     |
+| Cardano            | No              | No     | No          | No       | No          | No     |
+| Solana             | No              | No     | No          | No       | No          | No     |
+| Mina               | No              | No     | No          | No       | No          | No     |
+| Eth2 Beacon Chain  | No              | No     | No          | No       | No          | No     |
+| Pathfinder         | No              | No     | No          | No       | No          | No     |
 
 
 # Contributing [*Or something else*]
