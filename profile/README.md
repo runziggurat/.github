@@ -13,6 +13,7 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 |       | **Spec Conformance** | **Fuzzing** | **Crawler** | **Chaos + Malicious Actor Modeling** | **Visualization** | **Performance Benchmarking (loosely defined)** |
 |--------------------|--------|-------------|----------|-------------|-----------------|--------|
 | ZCash              | Yes (de-facto)  | Yes    | No          | Kinda    | No          | Yes    |
+| XRPL Ledger        | In progress     | No     | No          | No       | No          | No     |
 | Algorand           | No              | No     | No          | No       | No          | No     |
 | Aleo               | No              | No     | In Progress | No       | In Progress | No     |  
 | Polkadot           | No              | No     | No          | No       | No          | No     |
