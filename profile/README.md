@@ -8,7 +8,7 @@ Ziggurat is a collection of network testing tools and a suite of conformance, pe
 
 The project is developed by [Equilibrium](https://equilibrium.co) that provides the target networks with the foundation of reliability, performance, and scalability needed to realize the true potential of the network. Our clients  include, but not limited to, ZCash, Algorand, and XRPL Ledger.
 
-# Covergage
+# Coverage
 
 |       | **Spec Conformance** | **Fuzzing** | **Crawler** | **Chaos + Malicious Actor Modeling** | **Visualization** | **Performance Benchmarking (loosely defined)** |
 |--------------------|--------|-------------|----------|-------------|-----------------|--------|
