@@ -21,4 +21,4 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 
 # Contributing
 
-Feedback and Contributions from the open source community are welcome. If you have any query, you can open an issue in relevant repository and our Team will try to take it from there.
+Feedback and Contributions from the open source community are welcome. If you have any queries, you can open an issue in the relevant repository and our team will take it from there.
