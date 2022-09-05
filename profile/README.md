@@ -14,7 +14,7 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 |--------------------|--------|-------------|----------|-------------|-----------------|--------|
 | ZCash              | Yes  | Yes    | In Progress | Yes          | In Progress          | Yes    |
 | XRPL Ledger        | In progress     | In Progress     | No          | In Progress       | In Progress          | In Progress     |
-| Algorand           | No              | No     | No          | No       | No          | No     |
+| Algorand           | In Progress              | No     | No          | No       | No          | No     |
 | Aleo               | No              | No     | In Progress | No       | In Progress | No     |  
 | Polkadot           | No              | No     | No          | No       | No          | No     |
 
