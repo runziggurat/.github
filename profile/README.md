@@ -12,7 +12,7 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 
 # Coverage
 
-|       | **Spec Conformance** | **Fuzzing** | **Crawler** | **Chaos + Malicious Actor Modeling** | **Visualization** | **Performance Benchmarking (loosely defined)** |
+|       | **Spec Conformance** | **Fuzzing** | **Crawler** | ** Malicious Actor Modeling** | **Visualization** | **Performance Benchmarking ** |
 |--------------------|--------|-------------|----------|-------------|-----------------|--------|
 | ZCash              | Yes  | Yes    | In Progress | Yes          | In Progress          | Yes    |
 | XRPL Ledger        | In progress     | In Progress     | No          | In Progress       | In Progress          | In Progress     |
