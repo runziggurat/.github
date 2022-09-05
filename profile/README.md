@@ -17,7 +17,6 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 | Algorand           | No              | No     | No          | No       | No          | No     |
 | Aleo               | No              | No     | In Progress | No       | In Progress | No     |  
 | Polkadot           | No              | No     | No          | No       | No          | No     |
-| Solana             | No              | No     | No          | No       | No          | No     |
 | Eth2 Beacon Chain  | No              | No     | No          | No       | No          | No     |
 
 
