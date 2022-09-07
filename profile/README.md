@@ -12,15 +12,15 @@ The project is developed by [Equilibrium](https://equilibrium.co) that provides 
 
 # Coverage
 
-|       | **Spec Conformance** | **Fuzzing** | **Crawler** | ** Malicious Actor Modeling** | **Visualization** | **Performance Benchmarking ** |
-|--------------------|--------|-------------|----------|-------------|-----------------|--------|
-| ZCash              | Yes  | Yes    | In Progress | Yes          | In Progress          | Yes    |
-| XRP Ledger         | In progress     | In Progress     | No          | In Progress       | In Progress          | In Progress     |
-| Algorand           | In Progress              | No     | No          | No       | No          | No     |
-| Aleo               | No              | No     | In Progress | No       | In Progress | No     |  
-| Polkadot           | No              | No     | No          | No       | No          | No     |
+|  Network           | Spec Conformance | Fuzzing | Crawler | Malicious Actor Modeling | Visualization | Performance Benchmarking |
+|--------------------|------------------|---------|---------|--------------------------|---------------|--------------------------|
+| ZCash              | Yes              | Yes     | WIP     | Yes                      | WIP           | Yes                      |
+| XRP Ledger         | WIP              | WIP     | No      | WIP                      | WIP           | WIP                      |
+| Algorand           | WIP              | No      | No      | WIP                      | No            | No                       |
+| Aleo               | No               | No      | WIP     | No                       | WIP           | No                       |  
+| Polkadot           | No               | No      | No      | No                       | No            | No                       |
 
 
 # Contributing
 
-Feedback and Contributions from the open source community are welcome. If you have any queries, you can open an issue in the relevant repository and our team will take it from there.
+Feedback and contributions from the open source community are welcome. If you have any queries, you can open an issue in the relevant repository and our team will take it from there.
