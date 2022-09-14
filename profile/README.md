@@ -19,12 +19,15 @@ Our coverage so far includes ZCash, Aleo, Algorand, and the XRP Ledger. More are
 
 |  Network           | Spec Conformance | Fuzzing | Crawler | Malicious Actor Modeling | Visualization | Performance Benchmarking |
 |--------------------|------------------|---------|---------|--------------------------|---------------|--------------------------|
-| ZCash              | Yes              | Yes     | WIP     | Yes                      | WIP           | Yes                      |
-| XRP Ledger         | WIP              | WIP     | No      | WIP                      | WIP           | WIP                      |
-| Algorand           | WIP              | No      | No      | WIP                      | No            | No                       |
+| [ZCash]            | Yes              | Yes     | WIP     | Yes                      | WIP           | Yes                      |
+| [XRP Ledger]       | WIP              | WIP     | No      | WIP                      | WIP           | WIP                      |
+| [Algorand]         | WIP              | No      | No      | WIP                      | No            | No                       |
 | Aleo               | No               | No      | WIP     | No                       | WIP           | No                       |  
 | Polkadot           | No               | No      | No      | No                       | No            | No                       |
 
+[ZCash]: https://github.com/runziggurat/zcash
+[XRP Ledger]: https://github.com/runziggurat/xrpl
+[Algorand]: https://github.com/runziggurat/algorand
 
 # Contributing
 
