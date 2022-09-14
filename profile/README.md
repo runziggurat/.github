@@ -1,14 +1,19 @@
-# Ziggurat 
+# Ziggurat
+> The peer-to-peer Network Testing and Stability Framework
 
 <p align="center">
     <img src="https://github.com/runziggurat/.github/blob/main/profile/assets/logo.png" height="300px">
 </p>
-<br />
-Ziggurat is a collection of network testing tools and a suite of conformance, performance and resistance tests our team developed in Rust.
 
-# About
+Like the multi-stepped pyramids of antiquity, Ziggurat provides multiple blockchain networks with multiple layers of stability:
 
-The project is developed by [Equilibrium](https://equilibrium.co) that provides the target networks with the foundation of reliability, performance, and scalability needed to realize the true potential of the network. Our clients  include, but not limited to, ZCash, Algorand, and XRP Ledger.
+1. Conformance to spec
+2. Performance under scale
+3. Resistance to malicious actors.
+
+By reverse-engineering the network protocol and using lightweight "synthetic" nodes, Ziggurat provides blockchain node developers with the foundation of reliability, performance, and scalability needed to realize their true potential.
+
+Our coverage so far includes ZCash, Aleo, Algorand, and the XRP Ledger. More are on the way. For more information see the GitHub organization or the ZCash case study.
 
 # Coverage
 
