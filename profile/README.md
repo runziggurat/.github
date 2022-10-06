@@ -46,15 +46,17 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 
 [^1]: Sometimes, the Ziggurat test suite _becomes_ the de-facto networking spec
 
-# Coverage
+# Network Coverage
 
-|  Network           | Spec Conformance | Fuzzing | Crawler | Malicious Actor Modeling | Visualization | Performance Benchmarking |
+The table below illustrates whether a network is covered (💚), WIP (🚧), or not covered (❌)
+
+|  &nbsp;           | Spec Conformance | Input Fuzzing | Network Crawler | Bad Actor Modeling | Network Visualization | Performance Benchmarking |
 |--------------------|------------------|---------|---------|--------------------------|---------------|--------------------------|
-| [ZCash]            | Yes              | Yes     | WIP     | Yes                      | WIP           | Yes                      |
-| [XRP Ledger]       | WIP              | WIP     | No      | WIP                      | WIP           | WIP                      |
-| [Algorand]         | WIP              | No      | No      | WIP                      | No            | No                       |
-| Aleo               | No               | No      | WIP     | No                       | WIP           | No                       |  
-| Polkadot           | No               | No      | No      | No                       | No            | No                       |
+| [ZCash]            | 💚               | 💚     | 💚     | 💚                      | 💚           | 💚                      |
+| [XRP Ledger]       | 🚧              | 🚧     | 🚧      | 🚧                      | 🚧           | 🚧                      |
+| [Algorand]         | 🚧              | 🚧      | ❌      | 🚧                      | ❌            | 🚧                       |
+| Polkadot           | ❌               | ❌      | ❌      | ❌                       | ❌            | ❌                       |
+| Solana             | ❌               | ❌      | ❌      | ❌                       | ❌            | ❌                       |
 
 [ZCash]: https://github.com/runziggurat/zcash
 [XRP Ledger]: https://github.com/runziggurat/xrpl
