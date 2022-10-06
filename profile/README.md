@@ -1,5 +1,5 @@
 # Ziggurat
-> The peer-to-peer Network Testing and Stability Framework
+> Earthquake testing blockchain networks
 
 <p align="center">
     <img src="https://github.com/runziggurat/.github/blob/main/profile/assets/logo.png" height="300px">
