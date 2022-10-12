@@ -7,7 +7,21 @@
 
 Like the multi-stepped pyramids of antiquity, Ziggurat stands to provide multiple layers of stability for your peer-to-peer network. By reverse-engineering the network protocol and using lightweight "synthetic" nodes, Ziggurat provides blockchain node developers with the foundation of reliability, performance, and scalability needed to realize their true potential.
 
-Our coverage so far includes ZCash, Aleo, Algorand, and the XRP Ledger. More are on the way.
+# Network Coverage
+
+Our coverage so far includes ZCash, Aleo, Algorand, and the XRP Ledger. More are on the way. The table below illustrates whether a network is covered (💚), WIP (🚧), or not covered (❌)
+
+|  &nbsp;           | Spec Conformance | Input Fuzzing | Network Crawler | Bad Actor Modeling | Network Visualization | Performance Benchmarking |
+|--------------------|------------------|---------|---------|--------------------------|---------------|--------------------------|
+| [ZCash]            | 💚               | 💚     | 💚     | 💚                      | 💚           | 💚                      |
+| [XRP Ledger]       | 🚧              | 🚧     | 🚧      | 🚧                      | 🚧           | 🚧                      |
+| [Algorand]         | 🚧              | 🚧      | ❌      | 🚧                      | ❌            | 🚧                       |
+| Polkadot           | ❌               | ❌      | ❌      | ❌                       | ❌            | ❌                       |
+| Solana             | ❌               | ❌      | ❌      | ❌                       | ❌            | ❌                       |
+
+[ZCash]: https://github.com/runziggurat/zcash
+[XRP Ledger]: https://github.com/runziggurat/xrpl
+[Algorand]: https://github.com/runziggurat/algorand
 
 ## Coverage Details
 
@@ -45,22 +59,6 @@ The CPR test suite has become a staple of any Ziggurat implementation:
 Ziggurat is compatible with networks at any phase of deployment. For example - the CPR tests can be run during development or pre-deployment, and the network-wide tests can be run on devnet, testnet, or even mainnet.
 
 [^1]: Sometimes, the Ziggurat test suite _becomes_ the de-facto networking spec
-
-# Network Coverage
-
-The table below illustrates whether a network is covered (💚), WIP (🚧), or not covered (❌)
-
-|  &nbsp;           | Spec Conformance | Input Fuzzing | Network Crawler | Bad Actor Modeling | Network Visualization | Performance Benchmarking |
-|--------------------|------------------|---------|---------|--------------------------|---------------|--------------------------|
-| [ZCash]            | 💚               | 💚     | 💚     | 💚                      | 💚           | 💚                      |
-| [XRP Ledger]       | 🚧              | 🚧     | 🚧      | 🚧                      | 🚧           | 🚧                      |
-| [Algorand]         | 🚧              | 🚧      | ❌      | 🚧                      | ❌            | 🚧                       |
-| Polkadot           | ❌               | ❌      | ❌      | ❌                       | ❌            | ❌                       |
-| Solana             | ❌               | ❌      | ❌      | ❌                       | ❌            | ❌                       |
-
-[ZCash]: https://github.com/runziggurat/zcash
-[XRP Ledger]: https://github.com/runziggurat/xrpl
-[Algorand]: https://github.com/runziggurat/algorand
 
 # Contributing
 
