@@ -11,13 +11,13 @@ Like the multi-stepped pyramids of antiquity, Ziggurat stands to provide multipl
 
 Our coverage so far includes ZCash, Aleo, Algorand, and the XRP Ledger. More are on the way. The table below illustrates whether a network is covered (💚), WIP (🚧), or not covered (❌)
 
-|  &nbsp;           | Spec Conformance | Input Fuzzing | Network Crawler | Bad Actor Modeling | Network Visualization | Performance Benchmarking |
-|--------------------|------------------|---------|---------|--------------------------|---------------|--------------------------|
-| [ZCash]            | 💚               | 💚     | 💚     | 💚                      | 💚           | 💚                      |
-| [XRP Ledger]       | 🚧              | 🚧     | 🚧      | 🚧                      | 🚧           | 🚧                      |
-| [Algorand]         | 🚧              | 🚧      | ❌      | 🚧                      | ❌            | 🚧                       |
-| Polkadot           | ❌               | ❌      | ❌      | ❌                       | ❌            | ❌                       |
-| Solana             | ❌               | ❌      | ❌      | ❌                       | ❌            | ❌                       |
+|  &nbsp;            | Spec Conformance | Input Fuzzing | Network Crawler | Bad Actor Modeling | Network Visualization | Performance Benchmarking |
+|--------------------|------------------|---------------|-----------------|--------------------|-----------------------|--------------------------|
+| [ZCash]            | 💚               | 💚            | 💚             | 💚                 | 💚                    | 💚                       |
+| [XRP Ledger]       | 🚧               | 🚧            | 🚧             | 🚧                 | 🚧                    | 🚧                       |
+| [Algorand]         | 🚧               | 🚧            | ❌             | 🚧                 | ❌                    | 🚧                       |
+| Polkadot           | ❌               | ❌            | ❌             | ❌                 | ❌                    | ❌                       |
+| Solana             | ❌               | ❌            | ❌             | ❌                 | ❌                    | ❌                       |
 
 [ZCash]: https://github.com/runziggurat/zcash
 [XRP Ledger]: https://github.com/runziggurat/xrpl
@@ -63,3 +63,10 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 # Contributing
 
 Feedback and contributions from the open source community are welcome. If you have any queries, you can open an issue in the relevant repository and our team will take it from there.
+
+## Commit message
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+
+Our commit messages across all repositories use the [conventional commits] specification.
+
+[conventional commits]: https://www.conventionalcommits.org/en/v1.0.0/
