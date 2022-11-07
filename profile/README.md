@@ -1,5 +1,5 @@
 # Ziggurat
-> Earthquake testing blockchain networks
+> Secure and analyze your blockchain network
 
 <p align="center">
     <img src="https://github.com/runziggurat/.github/blob/main/profile/assets/logo.png" height="300px">
@@ -16,8 +16,6 @@ Our coverage so far includes ZCash, Aleo, Algorand, and the XRP Ledger. More are
 | [ZCash]            | 💚               | 💚            | 💚             | 💚                 | 💚                    | 💚                       |
 | [XRP Ledger]       | 🚧               | 🚧            | 🚧             | 🚧                 | 🚧                    | 🚧                       |
 | [Algorand]         | 🚧               | 🚧            | ❌             | 🚧                 | ❌                    | 🚧                       |
-| Polkadot           | ❌               | ❌            | ❌             | ❌                 | ❌                    | ❌                       |
-| Solana             | ❌               | ❌            | ❌             | ❌                 | ❌                    | ❌                       |
 
 [ZCash]: https://github.com/runziggurat/zcash
 [XRP Ledger]: https://github.com/runziggurat/xrpl
