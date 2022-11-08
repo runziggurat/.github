@@ -62,9 +62,4 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 
 Feedback and contributions from the open source community are welcome. If you have any queries, you can open an issue in the relevant repository and our team will take it from there.
 
-## Commit message
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
-
-Our commit messages across all repositories use the [conventional commits] specification.
-
-[conventional commits]: https://www.conventionalcommits.org/en/v1.0.0/
+For more information see [CONTRIBUTING.md](../CONTRIBUTING.md)
