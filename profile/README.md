@@ -62,4 +62,4 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 
 Feedback and contributions from the open source community are welcome. If you have any queries, you can open an issue in the relevant repository and our team will take it from there.
 
-For more information see [CONTRIBUTING.md](../CONTRIBUTING.md)
+For more information see [CONTRIBUTING.md](https://github.com/runziggurat/.github/blob/main/CONTRIBUTING.md)
