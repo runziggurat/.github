@@ -49,6 +49,11 @@ The CPR test suite has become a staple of any Ziggurat implementation:
    3. What versions of clients and network protocols are out there?
    4. What other analytics can we gather from the peer-to-peer network?
 2. Data analytics and visualization
+3. Data flow for network analysis: IPS and network visualization
+
+![](/profile/assets/p2p-dataflow.png)
+
+
 <!-- 2. Testnet Red-Teaming (coming soon!) -->
 <!-- 2. DoS protection (coming soon!) -->
 
