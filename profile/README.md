@@ -63,6 +63,18 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 
 [^1]: Sometimes, the Ziggurat test suite _becomes_ the de-facto networking spec
 
+# Contributors
+
+- Piotr Olszewski [@asmie](https://github.com/asmie) 
+- Kyle Granger [@kylegranger](https://github.com/kylegranger)
+- Karlo Mardešić [Rqnsom](https://github.com/Rqnsom)
+- Niklas Long [@niklaslong](https://github.com/niklaslong)
+- Łukasz Jędrzejczyk [@ljedrz](https://github.com/ljedrz)
+- Jonathan Anderson [@zeapoz](https://github.com/zeapoz)
+- Muzamil Sofi [@muzam1l](https://github.com/muzam1l)
+- Jani Anttonen [@JaniAnttonen](https://github.com/janianttonen)
+- Mark Henderson [@aphelionz](https://github.com/aphelionz)
+
 # Contributing
 
 Feedback and contributions from the open source community are welcome. If you have any queries, you can open an issue in the relevant repository and our team will take it from there.
