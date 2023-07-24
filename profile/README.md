@@ -73,6 +73,7 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 - Jonathan Anderson [@zeapoz](https://github.com/zeapoz)
 - Muzamil Sofi [@muzam1l](https://github.com/muzam1l)
 - Jani Anttonen [@JaniAnttonen](https://github.com/janianttonen)
+- Daniel Vladco [@danielvladco](https://github.com/danielvladco)
 - Mark Henderson [@aphelionz](https://github.com/aphelionz)
 
 # Contributing
