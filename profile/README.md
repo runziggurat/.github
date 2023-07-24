@@ -22,6 +22,8 @@ Our coverage so far includes ZCash, Aleo, Algorand, and the XRP Ledger. More are
 [Zcash]: https://github.com/runziggurat/zcash
 [XRP Ledger]: https://github.com/runziggurat/xrpl
 [Algorand]: https://github.com/runziggurat/algorand
+[Bitcoin]: https://github.com/runziggurat/bitcoin
+[The Graph]: https://github.com/runziggurat/thegraph
 
 ## Coverage Details
 
@@ -69,7 +71,7 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 
 - Piotr Olszewski [@asmie](https://github.com/asmie) 
 - Kyle Granger [@kylegranger](https://github.com/kylegranger)
-- Karlo Mardešić [Rqnsom](https://github.com/Rqnsom)
+- Karlo Mardešić [@Rqnsom](https://github.com/Rqnsom)
 - Niklas Long [@niklaslong](https://github.com/niklaslong)
 - Łukasz Jędrzejczyk [@ljedrz](https://github.com/ljedrz)
 - Jonathan Anderson [@zeapoz](https://github.com/zeapoz)
