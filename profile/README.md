@@ -16,6 +16,8 @@ Our coverage so far includes ZCash, Aleo, Algorand, and the XRP Ledger. More are
 | [ZCash]            | 💚               | 💚            | 💚              | 💚                 | 💚                    | 💚                       |
 | [XRP Ledger]       | 💚               | 💚            | 💚              | 💚                 | ❌                    | 💚                       |
 | [Algorand]         | 💚               | 💚            | ❌              | 💚                 | ❌                    | 💚                       |
+| [Bitcoin]         | ❌               | 💚            | ❌              | ❌                 | ❌                    | ❌                       |
+| [The Graph]         | ❌               | 💚            | ❌              | ❌                 | ❌                    | ❌                       |
 
 [Zcash]: https://github.com/runziggurat/zcash
 [XRP Ledger]: https://github.com/runziggurat/xrpl
