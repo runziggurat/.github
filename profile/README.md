@@ -69,7 +69,7 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 
 # Contributors
 
-- Piotr Olszewski [@asmie](https://github.com/asmie) 
+- Piotr Olszewski [@asmie](https://github.com/asmie)
 - Kyle Granger [@kylegranger](https://github.com/kylegranger)
 - Karlo Mardešić [@Rqnsom](https://github.com/Rqnsom)
 - Niklas Long [@niklaslong](https://github.com/niklaslong)
@@ -80,6 +80,7 @@ Ziggurat is compatible with networks at any phase of deployment. For example - t
 - Jani Anttonen [@JaniAnttonen](https://github.com/janianttonen)
 - Daniel Vladco [@danielvladco](https://github.com/danielvladco)
 - Mark Henderson [@aphelionz](https://github.com/aphelionz)
+- Mirko von Leipzig [@Mirko-von-Leipzig](https://github.com/Mirko-von-Leipzig)
 
 # Contributing
 
